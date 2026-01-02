@@ -5,3 +5,5 @@
 ## January
 
 01-01-2026 || Learnt about computed property, nested models, self referencing models etc. in pydantic
+
+02-01-2026 || Updated hyprland configs to new syntax.
