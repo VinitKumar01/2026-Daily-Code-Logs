@@ -8,8 +8,10 @@
 
 02-01-2026 || Updated hyprland configs to new syntax.
 
-03-01-2025 || Learnt about tokenization, vector embeddings, transformers etc. also coded a basic tokenizer in python.
+03-01-2026 || Learnt about tokenization, vector embeddings, transformers etc. also coded a basic tokenizer in python.
 
-04-01-2025 || Revised trees and graphs in dsa for exam.
+04-01-2026 || Revised trees and graphs in dsa for exam.
 
-05-01-2025 || Revised sorting algorithms, linked list, stack, queue, hashing for exam.
+05-01-2026 || Revised sorting algorithms, linked list, stack, queue, hashing for exam.
+
+06-01-2026 || Created a basic chat client using the openai python package.
