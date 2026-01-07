@@ -15,3 +15,5 @@
 05-01-2026 || Revised sorting algorithms, linked list, stack, queue, hashing for exam.
 
 06-01-2026 || Created a basic chat client using the openai python package.
+
+07-01-2026 || Coded another basic chatbot using openrouter model integrations.
