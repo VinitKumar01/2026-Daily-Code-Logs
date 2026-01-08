@@ -17,3 +17,5 @@
 06-01-2026 || Created a basic chat client using the openai python package.
 
 07-01-2026 || Coded another basic chatbot using openrouter model integrations.
+
+08-01-2026 || Learnt different types of system prompt enginnering techniques -> Zero-shot, Few-shot, Chain of thought, Persona Based etc.
