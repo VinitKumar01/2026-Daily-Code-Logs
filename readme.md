@@ -21,3 +21,5 @@
 08-01-2026 || Learnt different types of system prompt enginnering techniques -> Zero-shot, Few-shot, Chain of thought, Persona Based etc.
 
 09-01-2026 || Learnt how to run models locally using ollama and openui, also created a basic fastapi server to chat with those local models.
+
+10-01-2026 || Learnt about hugging face and transformer package to use models in a python program.
