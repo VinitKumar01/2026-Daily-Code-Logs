@@ -23,3 +23,5 @@
 09-01-2026 || Learnt how to run models locally using ollama and openui, also created a basic fastapi server to chat with those local models.
 
 10-01-2026 || Learnt about hugging face and transformer package to use models in a python program.
+
+11-01-2026 || Planned some feature implementations for the n8n-clone project.
