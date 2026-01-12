@@ -25,3 +25,5 @@
 10-01-2026 || Learnt about hugging face and transformer package to use models in a python program.
 
 11-01-2026 || Planned some feature implementations for the n8n-clone project.
+
+12-01-2026 || Created a basic telegram bot in typescript.
