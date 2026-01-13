@@ -27,3 +27,5 @@
 11-01-2026 || Planned some feature implementations for the n8n-clone project.
 
 12-01-2026 || Created a basic telegram bot in typescript.
+
+13-01-2026 || Implemented a sidebar to select nodes in n8n-clone project.
