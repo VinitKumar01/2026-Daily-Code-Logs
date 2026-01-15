@@ -31,3 +31,5 @@
 13-01-2026 || Implemented a sidebar to select nodes in n8n-clone project.
 
 14-01-2026 || Added frontend logic for webhook node in n8n-clone project.
+
+15-01-2026 || Learnt about merkel trees and how they are used in git to detect file changes.
