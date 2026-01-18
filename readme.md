@@ -37,3 +37,5 @@
 16-01-2026 || Tried to write a quickshell script to create a top bar but it didn't work.
 
 17-01-2026 || Learnt and implemented Directed Acycli graph in go.
+
+18-01-2026 || Learnt more about DAGs and implemented topological sort.
