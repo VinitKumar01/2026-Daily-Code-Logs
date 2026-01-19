@@ -39,3 +39,5 @@
 17-01-2026 || Learnt and implemented Directed Acycli graph in go.
 
 18-01-2026 || Learnt more about DAGs and implemented topological sort.
+
+19-01-2026 || Revised dsa concepts.
