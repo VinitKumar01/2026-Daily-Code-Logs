@@ -43,3 +43,5 @@
 19-01-2026 || Revised dsa concepts.
 
 20-01-2026 || Mapped out the architecture of execution context and data passing of n8n-clone nodes.
+
+21-01-2026 || Mapped out the architecture of Node registry for n8n-clone project.
