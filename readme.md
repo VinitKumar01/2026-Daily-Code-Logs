@@ -49,3 +49,5 @@
 22-01-2026 || Finalized the architecture of triggers, schedulers, queues and webhook node for n8n-clone project.
 
 23-01-2026 || Coded the activate workflow handler with new schema and architecture of n8n-clone project.
+
+24-01-2026 || Coded executors, node registry and basic workflow engine for n8n-clone project.
