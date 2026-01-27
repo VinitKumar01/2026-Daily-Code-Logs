@@ -55,3 +55,5 @@
 25-01-2026 || Revised dsa concepts.
 
 26-01-2026 || Implemented basic data structures for practice.
+
+27-01-2026 || Solved some basic dsa questions.
