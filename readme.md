@@ -61,3 +61,5 @@
 28-01-2026 || Re-solved some old dsa questions for practice.
 
 29-01-2026 || Revisited old projects for improvements.
+
+30-01-2026 || Learnt about agents and build a basic weather agent in python.
