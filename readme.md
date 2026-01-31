@@ -63,3 +63,5 @@
 29-01-2026 || Revisited old projects for improvements.
 
 30-01-2026 || Learnt about agents and build a basic weather agent in python.
+
+31-01-2026 || Made the weather agent more reliable by enforcing the response format.
