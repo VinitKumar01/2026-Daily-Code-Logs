@@ -65,3 +65,7 @@
 30-01-2026 || Learnt about agents and build a basic weather agent in python.
 
 31-01-2026 || Made the weather agent more reliable by enforcing the response format.
+
+## February
+
+01-02-2026 || Coded a basic terminal based coding agent in python.
