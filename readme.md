@@ -69,3 +69,5 @@
 ## February
 
 01-02-2026 || Coded a basic terminal based coding agent in python.
+
+02-02-2026 || Learnt about RAG and it's architecture.
