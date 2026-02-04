@@ -73,3 +73,5 @@
 02-02-2026 || Learnt about RAG and it's architecture.
 
 03-02-2026 || Solved some online javascript challanges.
+
+04-02-2026 || Learnt and implemented RAG in python.
