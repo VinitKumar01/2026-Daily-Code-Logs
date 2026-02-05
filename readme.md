@@ -75,3 +75,5 @@
 03-02-2026 || Solved some online javascript challanges.
 
 04-02-2026 || Learnt and implemented RAG in python.
+
+05-02-2026 || Revised basic concepts of golang.
