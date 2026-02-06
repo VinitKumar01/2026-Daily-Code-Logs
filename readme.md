@@ -77,3 +77,5 @@
 04-02-2026 || Learnt and implemented RAG in python.
 
 05-02-2026 || Revised basic concepts of golang.
+
+06-02-2026 || Implemented rag using queues for parallel processing of multiple queries.
