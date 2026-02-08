@@ -81,3 +81,5 @@
 06-02-2026 || Implemented rag using queues for parallel processing of multiple queries.
 
 07-02-2026 || Revised some basics about docker, docker files and docker compose.
+
+08-02-2026 || Learnt to build agentic workflows using langgraph.
