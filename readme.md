@@ -83,3 +83,5 @@
 07-02-2026 || Revised some basics about docker, docker files and docker compose.
 
 08-02-2026 || Learnt to build agentic workflows using langgraph.
+
+09-02-2026 || Updated the scheduler and task queue of the n8n-clone project.
