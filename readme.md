@@ -85,3 +85,5 @@
 08-02-2026 || Learnt to build agentic workflows using langgraph.
 
 09-02-2026 || Updated the scheduler and task queue of the n8n-clone project.
+
+10-02-2026 || Revised kubernetes concepts.
