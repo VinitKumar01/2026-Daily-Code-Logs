@@ -89,3 +89,5 @@
 10-02-2026 || Revised kubernetes concepts.
 
 11-02-2026 || Coded the workflow execution handler in n8n-clone project.
+
+12-02-2026 || Learnt about checkpointers in langgraph to persist the state in database.
