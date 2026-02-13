@@ -91,3 +91,5 @@
 11-02-2026 || Coded the workflow execution handler in n8n-clone project.
 
 12-02-2026 || Learnt about checkpointers in langgraph to persist the state in database.
+
+13-02-2026 || Learnt about different memory types in ai agents and implemented it using mem0 python module.
