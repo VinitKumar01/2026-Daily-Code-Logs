@@ -95,3 +95,5 @@
 13-02-2026 || Learnt about different memory types in ai agents and implemented it using mem0 python module.
 
 14-02-2026 || Learnt about graph databases and how they work.
+
+15-02-2026 || Reimplemented rag in python for practice.
