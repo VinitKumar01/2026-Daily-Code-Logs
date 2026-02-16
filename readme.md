@@ -97,3 +97,5 @@
 14-02-2026 || Learnt about graph databases and how they work.
 
 15-02-2026 || Reimplemented rag in python for practice.
+
+16-02-2026 || Learnt basics of cypher queries for graph databases and also implemented graph memory for an agent in python.
