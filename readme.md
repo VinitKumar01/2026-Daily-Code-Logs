@@ -99,3 +99,5 @@
 15-02-2026 || Reimplemented rag in python for practice.
 
 16-02-2026 || Learnt basics of cypher queries for graph databases and also implemented graph memory for an agent in python.
+
+17-02-2026 || Built a voice to text agent and also learnt about the architecture of voice to voice agents.
