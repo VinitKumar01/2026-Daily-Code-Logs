@@ -103,3 +103,5 @@
 17-02-2026 || Built a voice to text agent and also learnt about the architecture of voice to voice agents.
 
 18-02-2026 || Built a voice to voice coding agent also learnt about eleven labs text to speech apis.
+
+19-02-2026 || Learnt about agents sdk and tools in it.
