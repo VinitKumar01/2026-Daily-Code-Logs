@@ -105,3 +105,5 @@
 18-02-2026 || Built a voice to voice coding agent also learnt about eleven labs text to speech apis.
 
 19-02-2026 || Learnt about agents sdk and tools in it.
+
+20-02-2026 || Reimplemented some parts the frontend of n8n-clone project according to the new backend.
