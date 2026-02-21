@@ -107,3 +107,5 @@
 19-02-2026 || Learnt about agents sdk and tools in it.
 
 20-02-2026 || Reimplemented some parts the frontend of n8n-clone project according to the new backend.
+
+21-02-2026 || Fixed the major bugs in n8n-clone project.
