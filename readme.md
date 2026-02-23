@@ -111,3 +111,5 @@
 21-02-2026 || Fixed the major bugs in n8n-clone project.
 
 22-02-2026 || Learnt basics of Traefik, Caddy and Dozzle for deployments.
+
+23-02-2026 || Fixed execution of unsaved and deactivated workflows in n8n-clone project.
