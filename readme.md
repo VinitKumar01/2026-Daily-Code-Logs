@@ -115,3 +115,5 @@
 23-02-2026 || Fixed execution of unsaved and deactivated workflows in n8n-clone project.
 
 24-02-2026 || Fixed the saving and activation logic and also fixed the type convertor in backend of n8n-clone project.
+
+25-02-2026 || Implemented debounced auto saver for workflows in n8n-clone project.
