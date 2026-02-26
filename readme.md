@@ -117,3 +117,5 @@
 24-02-2026 || Fixed the saving and activation logic and also fixed the type convertor in backend of n8n-clone project.
 
 25-02-2026 || Implemented debounced auto saver for workflows in n8n-clone project.
+
+26-02-2026 || Read chapter 1 of the book A common-sense guide for data-structures and algorithms.
