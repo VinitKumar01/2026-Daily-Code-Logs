@@ -119,3 +119,5 @@
 25-02-2026 || Implemented debounced auto saver for workflows in n8n-clone project.
 
 26-02-2026 || Read chapter 1 of the book A common-sense guide for data-structures and algorithms.
+
+27-02-2026 || Setup OpenClaw repo to read it's code and learn.
