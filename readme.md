@@ -121,3 +121,5 @@
 26-02-2026 || Read chapter 1 of the book A common-sense guide for data-structures and algorithms.
 
 27-02-2026 || Setup OpenClaw repo to read it's code and learn.
+
+28-02-2026 || Fixed the workflow update logic to allow custom workflow names.
