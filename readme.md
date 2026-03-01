@@ -123,3 +123,7 @@
 27-02-2026 || Setup OpenClaw repo to read it's code and learn.
 
 28-02-2026 || Fixed the workflow update logic to allow custom workflow names.
+
+## March
+
+01-03-2026 || Learnt more about linux - links soft and hard, owner and group, hardware as file etc.
