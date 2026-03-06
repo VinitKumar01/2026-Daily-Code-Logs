@@ -135,3 +135,5 @@
 04-03-2026 || Read chapter 4 of the book A common-sense guide for data-structures and algorithms.
 
 05-03-2026 || Read chapter 1 of the book Designing Data Intensive Applications.
+
+06-03-2026 || Read chapter 2 of the book Designing Data Intensive Applications.
