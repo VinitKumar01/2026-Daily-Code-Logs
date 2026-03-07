@@ -137,3 +137,5 @@
 05-03-2026 || Read chapter 1 of the book Designing Data Intensive Applications.
 
 06-03-2026 || Read chapter 2 of the book Designing Data Intensive Applications.
+
+07-03-2026 || Implemented both frontend and backend for webhook node in n8n-clone project.
