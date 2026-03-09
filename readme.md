@@ -141,3 +141,5 @@
 07-03-2026 || Implemented both frontend and backend for webhook node in n8n-clone project.
 
 08-03-2026 || Learnt more about linux - tar, sed, diff, less etc.
+
+09-03-2026 || Implemented both frontend and backend of merge node in n8n-clone project and read chapter 5 of the book A common-sense guide for data-structures and algorithms.
