@@ -145,3 +145,5 @@
 09-03-2026 || Implemented both frontend and backend of merge node in n8n-clone project and read chapter 5 of the book A common-sense guide for data-structures and algorithms.
 
 10-03-2026 || Read chapter 6 of the book A common-sense guide for data-structures and algorithms.
+
+11-03-2026 || Read chapter 7 of the book A common-sense guide for data-structures and algorithms.
