@@ -147,3 +147,5 @@
 10-03-2026 || Read chapter 6 of the book A common-sense guide for data-structures and algorithms.
 
 11-03-2026 || Read chapter 7 of the book A common-sense guide for data-structures and algorithms.
+
+12-03-2026 || Learnt more about linux - dmesg, lsblk, mount, umount, su, kill, pgrep, ps, free etc.
