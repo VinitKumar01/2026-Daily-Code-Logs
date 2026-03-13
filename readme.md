@@ -149,3 +149,5 @@
 11-03-2026 || Read chapter 7 of the book A common-sense guide for data-structures and algorithms.
 
 12-03-2026 || Learnt more about linux - dmesg, lsblk, mount, umount, su, kill, pgrep, ps, free etc.
+
+13-03-2026 || Implemented both frontend and backend of scheduler node in n8n-clone project
