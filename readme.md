@@ -153,3 +153,5 @@
 13-03-2026 || Implemented both frontend and backend of scheduler node in n8n-clone project
 
 14-03-2026 || Solved some online js coding challanges.
+
+15-03-2026 || Learnt about Hydration and how react/nextjs achieves the partial hydration effect.
