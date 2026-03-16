@@ -155,3 +155,5 @@
 14-03-2026 || Solved some online js coding challanges.
 
 15-03-2026 || Learnt about Hydration and how react/nextjs achieves the partial hydration effect.
+
+16-03-2026 || Read chapter 8 of the book A common-sense guide for data-structures and algorithms.
