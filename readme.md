@@ -157,3 +157,5 @@
 15-03-2026 || Learnt about Hydration and how react/nextjs achieves the partial hydration effect.
 
 16-03-2026 || Read chapter 8 of the book A common-sense guide for data-structures and algorithms.
+
+17-03-2026 || Read chapter 9 of the book A common-sense guide for data-structures and algorithms.
