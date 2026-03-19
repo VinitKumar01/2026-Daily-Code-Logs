@@ -161,3 +161,5 @@
 17-03-2026 || Read chapter 9 of the book A common-sense guide for data-structures and algorithms.
 
 18-03-2026 || Read chapter 10 of the book A common-sense guide for data-structures and algorithms.
+
+19-03-2026 || Read chapter 11 of the book A common-sense guide for data-structures and algorithms.
