@@ -171,3 +171,5 @@
 22-03-2026 || Learnt more about linux - basics of systemctl, writing units files, targets etc.
 
 23-03-2026 || Read chapter 12 of the book A common-sense guide for data-structures and algorithms.
+
+24-03-2026 || Read chapter 13 of the book A common-sense guide for data-structures and algorithms.
