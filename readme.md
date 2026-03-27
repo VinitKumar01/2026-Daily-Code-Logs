@@ -177,3 +177,5 @@
 25-03-2026 || Read chapter 14 of the book A common-sense guide for data-structures and algorithms.
 
 26-03-2026 || Solved some online coding challanges.
+
+27-03-2026 || Implemented doubly and singly linked list for practice.
