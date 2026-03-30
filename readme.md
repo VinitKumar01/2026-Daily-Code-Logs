@@ -183,3 +183,5 @@
 28-03-2026 || Solved some linked list questions.
 
 29-03-2026 || Solved some javascript challanges.
+
+30-03-2026 || Learnt more about linux - Package management (pacman and its usage, configuration, troubleshooting) etc.
