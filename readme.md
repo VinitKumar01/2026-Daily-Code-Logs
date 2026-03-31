@@ -185,3 +185,5 @@
 29-03-2026 || Solved some javascript challanges.
 
 30-03-2026 || Learnt more about linux - Package management (pacman and its usage, configuration, troubleshooting) etc.
+
+31-03-2026 || Learnt more about linux - Package management (repositories, mirrors, arch build system, arch user repository, creating a PKGBUILD) etc.
