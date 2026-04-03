@@ -193,3 +193,5 @@
 1-04-2026 || Building a finance tracker dashboard - project setup and some basic components and architecture done.
 
 2-04-2026 || Solved some go-lang excercises.
+
+3-04-2026 || Learnt about Browser Object Model (BOM) in detail.
