@@ -197,3 +197,5 @@
 3-04-2026 || Learnt about Browser Object Model (BOM) in detail.
 
 4-04-2026 || Revisited some basics of bash scripting.
+
+5-04-2026 || Finished a friend's website.
