@@ -201,3 +201,5 @@
 5-04-2026 || Finished a friend's website.
 
 6-04-2026 || Learnt more bash scripting.
+
+7-04-2026 || Learnt more bash scripting - functions, executing another script inside a script etc.
