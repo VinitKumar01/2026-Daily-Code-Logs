@@ -205,3 +205,5 @@
 7-04-2026 || Learnt more bash scripting - functions, executing another script inside a script etc.
 
 8-04-2026 || Revised dsa concepts.
+
+9-04-2026 || Relearning go-lang - went through basics.
