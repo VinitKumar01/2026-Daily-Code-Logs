@@ -207,3 +207,5 @@
 8-04-2026 || Revised dsa concepts.
 
 9-04-2026 || Relearning go-lang - went through basics.
+
+10-04-2026 || Deployed a friend's notebook manufacturing company website with some changes.
