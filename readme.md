@@ -209,3 +209,5 @@
 9-04-2026 || Relearning go-lang - went through basics.
 
 10-04-2026 || Deployed a friend's notebook manufacturing company website with some changes.
+
+11-04-2026 || Learnt more bash scripting - loops, conditionals and use of [[]], [], $(()), (), {}, ${}, ${!}, (()) $() etc.
