@@ -215,3 +215,5 @@
 12-04-2026 || Added email node to the n8n-clone project.
 
 13-04-2026 || Added landing page to the n8n-clone project and also improved the dashboard ui.
+
+14-04-2026 || Deployed the n8n-clone project frontend and backend.
