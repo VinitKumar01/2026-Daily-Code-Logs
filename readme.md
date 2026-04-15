@@ -217,3 +217,5 @@
 13-04-2026 || Added landing page to the n8n-clone project and also improved the dashboard ui.
 
 14-04-2026 || Deployed the n8n-clone project frontend and backend.
+
+15-04-2026 || Learnt to create basic fractals in vanilla js using canvas.
