@@ -221,3 +221,5 @@
 15-04-2026 || Learnt to create basic fractals in vanilla js using canvas.
 
 16-04-2026 || Created more cool fractals in vanilla js using canvas.
+
+17-04-2026 || Revised dsa concepts.
