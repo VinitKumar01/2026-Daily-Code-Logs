@@ -225,3 +225,5 @@
 17-04-2026 || Revised dsa concepts.
 
 18-04-2026 || Solved recursion questions.
+
+19-04-2026 ||Learnt more bash scripting - input and output.
