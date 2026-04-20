@@ -227,3 +227,5 @@
 18-04-2026 || Solved recursion questions.
 
 19-04-2026 ||Learnt more bash scripting - input and output.
+
+20-04-2026 ||Learnt more bash scripting - case statements, indexed arrays, associative arrays, IFS variables etc.
