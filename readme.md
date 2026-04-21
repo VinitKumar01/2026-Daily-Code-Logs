@@ -229,3 +229,5 @@
 19-04-2026 ||Learnt more bash scripting - input and output.
 
 20-04-2026 ||Learnt more bash scripting - case statements, indexed arrays, associative arrays, IFS variables etc.
+
+21-04-2026 ||Learnt more bash scripting - command substitution, process substitution, arithematic expressions etc.
