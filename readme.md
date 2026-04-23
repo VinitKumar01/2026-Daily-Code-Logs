@@ -233,3 +233,5 @@
 21-04-2026 ||Learnt more bash scripting - command substitution, process substitution, arithematic expressions etc.
 
 22-04-2026 || Revised kubernetes basics - clusters, nodes ,pods, deployments, services, replicasets etc.
+
+23-04-2026 || Learnt about some basics of ingress - working, architecture, configurations etc.
