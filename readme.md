@@ -234,4 +234,4 @@
 
 22-04-2026 || Revised kubernetes basics - clusters, nodes ,pods, deployments, services, replicasets etc.
 
-23-04-2026 || Learnt about some basics of ingress - working, architecture, configurations etc.
+23-04-2026 || Learnt about more about kubernetes - configmaps and secrets. Also created a basic project using these concepts.
