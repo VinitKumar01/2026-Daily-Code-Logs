@@ -239,3 +239,5 @@
 24-04-2026 || Learnt about more about kubernetes - configmaps and secrets. Also created a basic project using these concepts.
 
 25-04-2026 || Learnt about volumes in kubernetes - ephemeral volumes, persistent volume claim, persistent volumes, static persistent volumes, nfs, automatic persistent volumes creation etc.
+
+26-04-2026 || Learnt about scaling in kubernetes - Resource request and limits, Horizontal pod auto-scaling, Cluster auto-scaling etc.
