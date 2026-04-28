@@ -243,3 +243,5 @@
 26-04-2026 || Learnt about scaling in kubernetes - Resource request and limits, Horizontal pod auto-scaling, Cluster auto-scaling etc.
 
 27-04-2026 || Tried to solve dsa questions - failed.
+
+28-04-2026 || Solved some easy dsa questions.
