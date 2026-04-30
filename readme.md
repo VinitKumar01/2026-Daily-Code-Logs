@@ -247,3 +247,5 @@
 28-04-2026 || Solved some easy dsa questions.
 
 29-04-2026 || Revised OOPS concepts in cpp and solved some easy dsa questions.
+
+30-04-2026 || Revised basics of PHP and AJAX for exams.
