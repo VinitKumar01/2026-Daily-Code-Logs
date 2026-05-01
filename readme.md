@@ -249,3 +249,7 @@
 29-04-2026 || Revised OOPS concepts in cpp and solved some easy dsa questions.
 
 30-04-2026 || Revised basics of PHP and AJAX for exams.
+
+## April
+
+01-05-2026 || Learnt about the manual kubernetes deployments and need of argocd and gitops.
