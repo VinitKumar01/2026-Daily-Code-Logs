@@ -253,3 +253,5 @@
 ## April
 
 01-05-2026 || Learnt about the manual kubernetes deployments and need of argocd and gitops.
+
+02-05-2026 || Learnt about how to use argocd and gitops.
