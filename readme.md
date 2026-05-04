@@ -257,3 +257,5 @@
 02-05-2026 || Learnt about how to use argocd and gitops.
 
 03-05-2026 || Learnt about helm and helm-charts and created my own postgres-chart.
+
+04-05-2026 || Tried to understand the architecture of something like betterstack.
