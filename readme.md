@@ -263,3 +263,5 @@
 05-05-2026 || Went through some interview questions for full-stack dev.
 
 06-05-2026 || Learnt basics of WebRTC.
+
+07-05-2026 || Learnt in more detail about SDT, NAT, STUN, TURN, ICE etc. in WebRTC.
