@@ -267,3 +267,5 @@
 07-05-2026 || Learnt in more detail about SDT, NAT, STUN, TURN, ICE etc. in WebRTC.
 
 08-05-2026 || Coded a basic websocket signaling server for WebRTC.
+
+09-05-2026 || Coded the sender and receiver page with the WebRTC video sharing logic.
