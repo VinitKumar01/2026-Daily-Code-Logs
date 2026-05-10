@@ -269,3 +269,5 @@
 08-05-2026 || Coded a basic websocket signaling server for WebRTC.
 
 09-05-2026 || Coded the sender and receiver page with the WebRTC video sharing logic.
+
+10-05-2026 || Coded a basic app with cookie based auth.
