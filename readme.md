@@ -271,3 +271,5 @@
 09-05-2026 || Coded the sender and receiver page with the WebRTC video sharing logic.
 
 10-05-2026 || Coded a basic app with cookie based auth.
+
+11-05-2026 || Coded a basic redis-queue with primary backend to push and worker to consume.
