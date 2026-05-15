@@ -279,3 +279,5 @@
 13-05-2026 || Revisited some old go projects to revise go-basics.
 
 14-05-2026 || Learnt basic kafka architecture and how it works.
+
+15-05-2026 || Went through lua-guide for nvim by nanotee.
