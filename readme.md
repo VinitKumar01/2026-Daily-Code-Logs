@@ -285,3 +285,5 @@
 16-05-2026 || Learnt about lua-runtime in nvim, it's runtime path, vim apis, etc.
 
 17-05-2026 || Coded the list functionality of the notion.nvim plugin.
+
+18-05-2026 || Read some open-source nvim plugins code.
