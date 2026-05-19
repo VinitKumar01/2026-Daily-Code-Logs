@@ -287,3 +287,5 @@
 17-05-2026 || Coded the list functionality of the notion.nvim plugin.
 
 18-05-2026 || Read some open-source nvim plugins code.
+
+19-05-2026 || Learnt about vim.tbl_get(), vim.schedule() and its use cases, vim.defer_fn(), etc.
