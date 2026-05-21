@@ -291,3 +291,5 @@
 19-05-2026 || Learnt about vim.tbl_get(), vim.schedule() and its use cases, vim.defer_fn(), etc.
 
 20-05-2026 || Refactored the plugin code and learnt more about vim buffer local options like vim.bo[buf].acwrite, vim.bo[buf].modified, etc.
+
+21-05-2026 || Completed the notion nvim plugin.
