@@ -293,3 +293,5 @@
 20-05-2026 || Refactored the plugin code and learnt more about vim buffer local options like vim.bo[buf].acwrite, vim.bo[buf].modified, etc.
 
 21-05-2026 || Completed the notion nvim plugin.
+
+21-05-2026 || Revised bash scripting.
