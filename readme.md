@@ -295,3 +295,5 @@
 21-05-2026 || Completed the notion nvim plugin.
 
 21-05-2026 || Revised bash scripting.
+
+22-05-2026 || Created some basic bash scripts for practice.
