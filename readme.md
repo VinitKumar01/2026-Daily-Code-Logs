@@ -297,3 +297,5 @@
 21-05-2026 || Revised bash scripting.
 
 22-05-2026 || Created some basic bash scripts for practice.
+
+23-05-2026 || Learnt more bash scripting -> cut, tr, sed, awk, find, bash arguments (-n, -u, -x, -e, -v, -l), etc.
