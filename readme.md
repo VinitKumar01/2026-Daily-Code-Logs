@@ -301,3 +301,5 @@
 23-05-2026 || Learnt more bash scripting -> cut, tr, sed, awk, find, bash arguments (-n, -u, -x, -e, -v, -l), etc.
 
 24-05-2026 || Learnt more bash scripting -> pipe status with multiple commands, timing commands, sourcing scripts, etc.
+
+25-05-2026 || Learnt more bash scripting -> curly braces vs parentheses for functions, return vs output, parameter expansion, etc.
