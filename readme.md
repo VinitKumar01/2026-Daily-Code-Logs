@@ -294,12 +294,12 @@
 
 21-05-2026 || Completed the notion nvim plugin.
 
-21-05-2026 || Revised bash scripting.
+22-05-2026 || Revised bash scripting.
 
-22-05-2026 || Created some basic bash scripts for practice.
+23-05-2026 || Created some basic bash scripts for practice.
 
-23-05-2026 || Learnt more bash scripting -> cut, tr, sed, awk, find, bash arguments (-n, -u, -x, -e, -v, -l), etc.
+24-05-2026 || Learnt more bash scripting -> cut, tr, sed, awk, find, bash arguments (-n, -u, -x, -e, -v, -l), etc.
 
-24-05-2026 || Learnt more bash scripting -> pipe status with multiple commands, timing commands, sourcing scripts, etc.
+25-05-2026 || Learnt more bash scripting -> pipe status with multiple commands, timing commands, sourcing scripts, etc.
 
-25-05-2026 || Learnt more bash scripting -> curly braces vs parentheses for functions, return vs output, parameter expansion, etc.
+26-05-2026 || Learnt more bash scripting -> curly braces vs parentheses for functions, return vs output, parameter expansion, etc.
