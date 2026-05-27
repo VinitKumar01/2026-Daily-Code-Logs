@@ -303,3 +303,5 @@
 25-05-2026 || Learnt more bash scripting -> pipe status with multiple commands, timing commands, sourcing scripts, etc.
 
 26-05-2026 || Learnt more bash scripting -> curly braces vs parentheses for functions, return vs output, parameter expansion, etc.
+
+27-05-2026 || Learnt more bash scripting -> curly braces expansion, globbing, date-formating, etc.
