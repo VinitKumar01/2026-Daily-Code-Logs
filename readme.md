@@ -305,3 +305,5 @@
 26-05-2026 || Learnt more bash scripting -> curly braces vs parentheses for functions, return vs output, parameter expansion, etc.
 
 27-05-2026 || Learnt more bash scripting -> curly braces expansion, globbing, date-formating, etc.
+
+28-05-2026 || Practiced some online bash excercises.
