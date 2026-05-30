@@ -309,3 +309,5 @@
 28-05-2026 || Practiced some online bash excercises.
 
 29-05-2026 || Learnt regular expressions in bash.
+
+30-05-2026 || Learnt mapfile and readarray in bash.
