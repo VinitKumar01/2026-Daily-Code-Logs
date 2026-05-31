@@ -311,3 +311,5 @@
 29-05-2026 || Learnt regular expressions in bash.
 
 30-05-2026 || Learnt mapfile and readarray in bash.
+
+31-05-2026 || Revised some basics of OOPS and dynamic-memory allocation in cpp.
