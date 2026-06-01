@@ -250,7 +250,7 @@
 
 30-04-2026 || Revised basics of PHP and AJAX for exams.
 
-## April
+## May
 
 01-05-2026 || Learnt about the manual kubernetes deployments and need of argocd and gitops.
 
@@ -313,3 +313,7 @@
 30-05-2026 || Learnt mapfile and readarray in bash.
 
 31-05-2026 || Revised some basics of OOPS and dynamic-memory allocation in cpp.
+
+## June
+
+01-06-2026 || Refactored a friend's vibecoded website end-to-end.
