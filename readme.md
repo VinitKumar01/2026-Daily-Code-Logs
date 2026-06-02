@@ -317,3 +317,5 @@
 ## June
 
 01-06-2026 || Refactored a friend's vibecoded website end-to-end.
+
+02-06-2026 || Learnt react context api again but in depth.
