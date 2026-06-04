@@ -321,3 +321,5 @@
 02-06-2026 || Learnt react context api again but in depth.
 
 03-06-2026 || Learnt react useReducer and its use with context api again but in depth.
+
+04-06-2026 || Learnt react useMemo, React.memo, useCallback again but in depth.
