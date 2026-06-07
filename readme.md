@@ -327,3 +327,5 @@
 05-06-2026 || Revised operator overloading, polymorphism, generics, templates and other advanced class concepts in cpp.
 
 06-06-2026 || Revised lua programming concepts.
+
+07-06-2026 || Learnt react useReducer, when and why to use it instead of useState, etc. again but in depth.
