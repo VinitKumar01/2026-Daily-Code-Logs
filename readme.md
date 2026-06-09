@@ -331,3 +331,5 @@
 07-06-2026 || Learnt react useReducer, when and why to use it instead of useState, etc. again but in depth.
 
 08-06-2026 || Learnt about react useReducer + context combination, lazy initialization, async actions and reducers, reducer composition, React internals for reducer updates, etc.
+
+09-06-2026 || Solved some online bash programming excercises.
