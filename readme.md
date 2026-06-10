@@ -333,3 +333,5 @@
 08-06-2026 || Learnt about react useReducer + context combination, lazy initialization, async actions and reducers, reducer composition, React internals for reducer updates, etc.
 
 09-06-2026 || Solved some online bash programming excercises.
+
+10-06-2026 || Learnt about useLayoutEffect vs useEffect in detail with their specific usecases.
