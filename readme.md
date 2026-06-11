@@ -335,3 +335,5 @@
 09-06-2026 || Solved some online bash programming excercises.
 
 10-06-2026 || Learnt about useLayoutEffect vs useEffect in detail with their specific usecases.
+
+11-06-2026 || Learnt websockets again in detail.
