@@ -337,3 +337,5 @@
 10-06-2026 || Learnt about useLayoutEffect vs useEffect in detail with their specific usecases.
 
 11-06-2026 || Learnt websockets again in detail.
+
+11-06-2026 || Building a tui app in go-lang, so experimented with multiple tui packages and then finalized bubbletea.
