@@ -341,3 +341,5 @@
 12-06-2026 || Building a tui app in go-lang, so experimented with multiple tui packages and then finalized bubbletea.
 
 13-06-2026 || Started a new project for a client - built basic UI, backend with working http express server, clerk auth, razorpay test payments, postgres database using prisma etc.
+
+14-06-2026 || Completed the initial mvp of the client project.
