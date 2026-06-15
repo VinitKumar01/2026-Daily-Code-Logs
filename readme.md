@@ -343,3 +343,5 @@
 13-06-2026 || Started a new project for a client - built basic UI, backend with working http express server, clerk auth, razorpay test payments, postgres database using prisma etc.
 
 14-06-2026 || Completed the initial mvp of the client project.
+
+15-06-2026 || Moved to shopify website due to client demand - learnt to create custom themes for shopify and created one.
