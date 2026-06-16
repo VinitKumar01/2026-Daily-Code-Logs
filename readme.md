@@ -345,3 +345,5 @@
 14-06-2026 || Completed the initial mvp of the client project.
 
 15-06-2026 || Moved to shopify website due to client demand - learnt to create custom themes for shopify and created one.
+
+16-06-2026 || Made some improvements and fixes to the custom shopify theme.
