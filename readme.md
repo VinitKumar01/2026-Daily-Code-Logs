@@ -349,3 +349,5 @@
 16-06-2026 || Made some improvements and fixes to the custom shopify theme.
 
 17-06-2026 || Revised go-lang fundamentals.
+
+18-06-2026 || Learnt about how agent harness works under the hood.
