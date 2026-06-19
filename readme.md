@@ -351,3 +351,5 @@
 17-06-2026 || Revised go-lang fundamentals.
 
 18-06-2026 || Learnt about how agent harness works under the hood.
+
+19-06-2026 || Tinkered with bubbletea and lipgloss package in go-lang.
