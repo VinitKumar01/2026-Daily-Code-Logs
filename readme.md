@@ -353,3 +353,5 @@
 18-06-2026 || Learnt about how agent harness works under the hood.
 
 19-06-2026 || Tinkered with bubbletea and lipgloss package in go-lang.
+
+20-06-2026 || Learnt more about bubbletea and bubbles package in go-lang using their docs.
