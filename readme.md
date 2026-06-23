@@ -359,3 +359,5 @@
 21-06-2026 || Started learning react-native by building a subscription management app.
 
 22-06-2026 || Added basic layout and designed homepage of subscription management app.
+
+23-06-2026 || Revised basics of system design.
