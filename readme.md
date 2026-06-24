@@ -361,3 +361,5 @@
 22-06-2026 || Added basic layout and designed homepage of subscription management app.
 
 23-06-2026 || Revised basics of system design.
+
+24-06-2026 || Reviewed an old project to get a high level overview of architecture and improvements.
