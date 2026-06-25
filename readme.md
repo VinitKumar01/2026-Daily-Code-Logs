@@ -363,3 +363,5 @@
 23-06-2026 || Revised basics of system design.
 
 24-06-2026 || Reviewed an old project to get a high level overview of architecture and improvements.
+
+25-06-2026 || Solved some javascript questions related to polyfills.
