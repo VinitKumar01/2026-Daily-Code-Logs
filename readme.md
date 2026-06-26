@@ -365,3 +365,5 @@
 24-06-2026 || Reviewed an old project to get a high level overview of architecture and improvements.
 
 25-06-2026 || Solved some javascript questions related to polyfills.
+
+25-06-2026 || Added zustand state management to frontend and tests to backend of n8n-clone project.
