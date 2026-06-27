@@ -367,3 +367,5 @@
 25-06-2026 || Solved some javascript questions related to polyfills.
 
 26-06-2026 || Added zustand state management to frontend and tests to backend of n8n-clone project.
+
+27-06-2026 || Fixed bugs in the WebRTC template and added ARCHITECTURE.md to other projects.
