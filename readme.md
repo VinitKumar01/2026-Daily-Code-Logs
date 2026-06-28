@@ -369,3 +369,5 @@
 26-06-2026 || Added zustand state management to frontend and tests to backend of n8n-clone project.
 
 27-06-2026 || Fixed bugs in the WebRTC template and added ARCHITECTURE.md to other projects.
+
+28-06-2026 || Refactored backend code for n8n-clone project.
