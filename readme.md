@@ -371,3 +371,5 @@
 27-06-2026 || Fixed bugs in the WebRTC template and added ARCHITECTURE.md to other projects.
 
 28-06-2026 || Refactored backend code for n8n-clone project.
+
+29-06-2026 || Fixed some workflow engine bugs and improved UI & UX of n8n-clone project.
