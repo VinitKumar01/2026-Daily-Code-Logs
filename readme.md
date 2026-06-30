@@ -373,3 +373,5 @@
 28-06-2026 || Refactored backend code for n8n-clone project.
 
 29-06-2026 || Fixed some workflow engine bugs and improved UI & UX of n8n-clone project.
+
+30-06-2026 || Implemented the Home tab UI for the subscription management app.
