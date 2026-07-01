@@ -375,3 +375,7 @@
 29-06-2026 || Fixed some workflow engine bugs and improved UI & UX of n8n-clone project.
 
 30-06-2026 || Implemented the Home tab UI for the subscription management app.
+
+## July
+
+01-07-2026 || Learnt basics of web-performance.
