@@ -381,3 +381,5 @@
 01-07-2026 || Learnt basics of web-performance.
 
 02-07-2026 || Implemented the SEO stuff for the n8n-clone project.
+
+03-07-2026 || Learnt about waterfall graphs used in web-performance for LCP, FCP, CLS, TBT etc.
