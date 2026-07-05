@@ -385,3 +385,5 @@
 03-07-2026 || Learnt about waterfall graphs used in web-performance for LCP, FCP, CLS, TBT etc.
 
 04-07-2026 || Learnt about basics of flame graphs and INP, TTFB, performance api etc.
+
+05-07-2026 || Learnt about performance metrics measuring tools for both local device and real users.
