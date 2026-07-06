@@ -387,3 +387,5 @@
 04-07-2026 || Learnt about basics of flame graphs and INP, TTFB, performance api etc.
 
 05-07-2026 || Learnt about performance metrics measuring tools for both local device and real users.
+
+06-07-2026 || Solved some golang challanges.
