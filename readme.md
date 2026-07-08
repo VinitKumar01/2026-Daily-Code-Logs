@@ -391,3 +391,5 @@
 06-07-2026 || Solved some golang challanges.
 
 07-07-2026 || Solved some more AI generated go challenges.
+
+08-07-2026 || Added clerk authentication to subscription management app.
