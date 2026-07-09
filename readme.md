@@ -393,3 +393,5 @@
 07-07-2026 || Solved some more AI generated go challenges.
 
 08-07-2026 || Added clerk authentication to subscription management app.
+
+09-07-2026 || Learnt about HTTP response compression, efficient protocols, host proximity etc. in web-performance.
