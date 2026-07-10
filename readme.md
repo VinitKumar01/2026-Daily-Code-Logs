@@ -395,3 +395,5 @@
 08-07-2026 || Added clerk authentication to subscription management app.
 
 09-07-2026 || Learnt about HTTP response compression, efficient protocols, host proximity etc. in web-performance.
+
+10-07-2026 || Learnt about sequence chains, preloading, lazyloading, fetchpriority etc. in web-performance.
