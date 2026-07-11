@@ -397,3 +397,5 @@
 09-07-2026 || Learnt about HTTP response compression, efficient protocols, host proximity etc. in web-performance.
 
 10-07-2026 || Learnt about sequence chains, preloading, lazyloading, fetchpriority etc. in web-performance.
+
+11-07-2026 || Learnt about sequence image optimization with formats and compression, responsive images, browser caching, yielding the main thread etc. in web-performance.
