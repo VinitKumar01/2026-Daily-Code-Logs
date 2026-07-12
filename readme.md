@@ -399,3 +399,5 @@
 10-07-2026 || Learnt about sequence chains, preloading, lazyloading, fetchpriority etc. in web-performance.
 
 11-07-2026 || Learnt about sequence image optimization with formats and compression, responsive images, browser caching, yielding the main thread etc. in web-performance.
+
+12-07-2026 || Learnt about context, sync and scheduler package in detail in golang.
