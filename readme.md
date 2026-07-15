@@ -405,3 +405,5 @@
 13-07-2026 || Made a static digital marketing agency website.
 
 14-07-2026 || Made some improvements to marketing agency website and practiced some patterns in golang -> connection pool, http retry client and telemetry interceptor.
+
+15-07-2026 || Revised some basics of data structures and algorithms.
