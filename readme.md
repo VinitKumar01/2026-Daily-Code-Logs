@@ -409,3 +409,5 @@
 15-07-2026 || Revised some basics of data structures and algorithms.
 
 16-07-2026 || Learnt basics of java like basic syntax, memory box model etc.
+
+17-07-2026 || Learnt about gradle and testing in java.
