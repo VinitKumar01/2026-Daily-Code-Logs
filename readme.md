@@ -411,3 +411,5 @@
 16-07-2026 || Learnt basics of java like basic syntax, memory box model etc.
 
 17-07-2026 || Learnt about gradle and testing in java.
+
+18-07-2026 || Played more with java classes and testing using google's truth package.
