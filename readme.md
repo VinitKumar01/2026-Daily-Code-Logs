@@ -413,3 +413,5 @@
 17-07-2026 || Learnt about gradle and testing in java.
 
 18-07-2026 || Played more with java classes and testing using google's truth package.
+
+19-07-2026 || Solved some java challanges related to Lists, Maps and Memory Model.
