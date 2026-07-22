@@ -419,3 +419,5 @@
 20-07-2026 || Refactored a 4000+ LOC AI generated home page for a client project.
 
 21-07-2026 || Created services and services/serviceId page for client project.
+
+22-07-2026 || Created shops and products pages and refactored the code for client project.
