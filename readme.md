@@ -423,3 +423,5 @@
 22-07-2026 || Created shops and products pages and refactored the code for client project.
 
 23-07-2026 || Created daily panchang and rashifal page for client project.
+
+24-07-2026 || Created blogs and about page and also implemented basic backend.
