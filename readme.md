@@ -425,3 +425,5 @@
 23-07-2026 || Created daily panchang and rashifal page for client project.
 
 24-07-2026 || Created blogs and about page and also implemented basic backend.
+
+25-07-2026 || Created admin panel and fixed some bugs for a client project.
