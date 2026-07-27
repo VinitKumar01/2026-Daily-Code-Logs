@@ -429,3 +429,5 @@
 25-07-2026 || Created admin panel and fixed some bugs for a client project.
 
 26-07-2026 || Fixed admin panel bugs and refactored the code.
+
+27-07-2026 || Moved to cloudflare R2, better-auth for authentication and a lot of changes in client project.
