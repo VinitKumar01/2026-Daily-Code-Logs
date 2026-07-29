@@ -433,3 +433,5 @@
 27-07-2026 || Moved to cloudflare R2, better-auth for authentication and a lot of changes in client project.
 
 28-07-2026 || Fixed the cards layout and fixed the R2 bucket bugs for admin panel.
+
+29-07-2026 || Fixed orphan image cleanup logic and made image related bug fixes for client project.
