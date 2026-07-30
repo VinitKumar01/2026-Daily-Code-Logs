@@ -435,3 +435,5 @@
 28-07-2026 || Fixed the cards layout and fixed the R2 bucket bugs for admin panel.
 
 29-07-2026 || Fixed orphan image cleanup logic and made image related bug fixes for client project.
+
+30-07-2026 || Fixed bugs related to images, access role and auth for client project.
