@@ -447,3 +447,5 @@
 02-08-2026 || Enhanced UI/UX by adding animations for client project.
 
 03-08-2026 || Migrated hyprland config from .conf format to .lua format.
+
+04-08-2026 || Migrated to new UI for puja, chadhava and temple for client project.
