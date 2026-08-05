@@ -449,3 +449,5 @@
 03-08-2026 || Migrated hyprland config from .conf format to .lua format.
 
 04-08-2026 || Migrated to new UI for puja, chadhava and temple for client project.
+
+05-08-2026 || Migrated admin panel to new UI entries, also fixed cache invalidation bugs for client project.
