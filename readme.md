@@ -451,3 +451,5 @@
 04-08-2026 || Migrated to new UI for puja, chadhava and temple for client project.
 
 05-08-2026 || Migrated admin panel to new UI entries, also fixed cache invalidation bugs for client project.
+
+06-08-2026 || Added some new pages - donations, privacy policy, refund and cancellation policy, terms and conditions etc. for client project.
