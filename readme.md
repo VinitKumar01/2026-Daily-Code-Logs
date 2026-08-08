@@ -455,3 +455,5 @@
 06-08-2026 || Added some new pages - donations, privacy policy, refund and cancellation policy, terms and conditions etc. for client project.
 
 07-08-2026 || Added panchang visualizer, cosmic energy section to home page, reels to shop etc. for client project.
+
+08-08-2026 || Added carousal to services and shop, added shipping logic, added newsletter, fixed UI bugs etc. for client project.
