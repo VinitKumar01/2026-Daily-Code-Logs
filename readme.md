@@ -457,3 +457,5 @@
 07-08-2026 || Added panchang visualizer, cosmic energy section to home page, reels to shop etc. for client project.
 
 08-08-2026 || Added carousal to services and shop, added shipping logic, added newsletter, fixed UI bugs etc. for client project.
+
+09-08-2026 || Added coupons, fixed auth, added whatsapp notifications etc. for client project.
