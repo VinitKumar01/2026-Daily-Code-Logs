@@ -459,3 +459,5 @@
 08-08-2026 || Added carousal to services and shop, added shipping logic, added newsletter, fixed UI bugs etc. for client project.
 
 09-08-2026 || Added coupons, fixed auth, added whatsapp notifications etc. for client project.
+
+10-08-2026 || Migrated the client project from nextjs to reactjs due to cloudflare compatibility issues.
