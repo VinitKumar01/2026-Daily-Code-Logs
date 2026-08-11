@@ -461,3 +461,5 @@
 09-08-2026 || Added coupons, fixed auth, added whatsapp notifications etc. for client project.
 
 10-08-2026 || Migrated the client project from nextjs to reactjs due to cloudflare compatibility issues.
+
+11-08-2026 || Revised some java basics.
