@@ -463,3 +463,5 @@
 10-08-2026 || Migrated the client project from nextjs to reactjs due to cloudflare compatibility issues.
 
 11-08-2026 || Revised some java basics.
+
+12-08-2026 || Fixed request cancellation and failure bugs in client project.
