@@ -465,3 +465,5 @@
 11-08-2026 || Revised some java basics.
 
 12-08-2026 || Fixed request cancellation and failure bugs in client project.
+
+13-08-2026 || Solved some java syntax related challenges.
