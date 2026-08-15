@@ -469,3 +469,5 @@
 13-08-2026 || Solved some java syntax related challenges.
 
 14-08-2026 || Solved some challenges related to IntList and SentinalList in java.
+
+15-08-2026 || Learnt basics of gradle for java.
