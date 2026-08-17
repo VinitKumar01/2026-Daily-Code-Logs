@@ -473,3 +473,5 @@
 15-08-2026 || Learnt basics of gradle for java.
 
 16-08-2026 || Created a particle simulator in java.
+
+17-08-2026 || Solved some java challenges related to IntList.
