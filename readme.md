@@ -475,3 +475,5 @@
 16-08-2026 || Created a particle simulator in java.
 
 17-08-2026 || Solved some java challenges related to IntList.
+
+18-08-2026 || Solved some java challenges related to SLList.
