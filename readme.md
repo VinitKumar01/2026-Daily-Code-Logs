@@ -477,3 +477,5 @@
 17-08-2026 || Solved some java challenges related to IntList.
 
 18-08-2026 || Solved some java challenges related to SLList.
+
+19-08-2026 || Learnt about interface and implementation inheritance in java.
