@@ -481,3 +481,5 @@
 19-08-2026 || Learnt about interface and implementation inheritance in java.
 
 20-08-2026 || Solved some go-lang syntax related challenges.
+
+21-08-2026 || Did some waybar and terminal ricing.
