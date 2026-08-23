@@ -485,3 +485,5 @@
 21-08-2026 || Did some waybar and terminal ricing.
 
 22-08-2026 || Completed the initial rice.
+
+23-08-2026 || Learnt more about hyprland lua configs.
