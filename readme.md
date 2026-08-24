@@ -487,3 +487,5 @@
 22-08-2026 || Completed the initial rice.
 
 23-08-2026 || Learnt more about hyprland lua configs.
+
+24-08-2026 || Learnt about the working of cli routing and dynamic environment in omarchy.
