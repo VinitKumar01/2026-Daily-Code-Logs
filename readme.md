@@ -491,3 +491,5 @@
 24-08-2026 || Learnt about the working of cli routing and dynamic environment in omarchy.
 
 25-08-2026 || Learnt about the theming engine and template pipeline.
+
+26-08-2026 || Learnt about how lifecycle manager works in a rolling distro like omarchy.
