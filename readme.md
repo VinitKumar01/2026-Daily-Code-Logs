@@ -493,3 +493,5 @@
 25-08-2026 || Learnt about the theming engine and template pipeline.
 
 26-08-2026 || Learnt about how lifecycle manager works in a rolling distro like omarchy.
+
+27-08-2026 || Revised some bash scripting to understand omarchy better.
