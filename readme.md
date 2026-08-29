@@ -497,3 +497,5 @@
 27-08-2026 || Revised some bash scripting to understand omarchy better.
 
 28-08-2026 || Made some fixes to client project.
+
+29-08-2026 || Made some UI changes to match initial reference in the client project.
