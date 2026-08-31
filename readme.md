@@ -501,3 +501,5 @@
 29-08-2026 || Made some UI changes to match initial reference in the client project.
 
 30-08-2026 || Solved some java challanges related to circular linked list.
+
+31-08-2026 || Learnt more bash specifics for omarchy.
