@@ -511,3 +511,5 @@
 02-09-2026 || Learnt basics of how omarchy uses a single quickshell session for all the UI instead of multiple processes for all the elements differently.
 
 03-09-2026 || Learnt about quickshell and IPC in more detail for omarchy.
+
+04-09-2026 || Made some changes to overall theme of the client website.
