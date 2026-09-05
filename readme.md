@@ -513,3 +513,5 @@
 03-09-2026 || Learnt about quickshell and IPC in more detail for omarchy.
 
 04-09-2026 || Made some changes to overall theme of the client website.
+
+05-09-2026 || Shipped some features like abandoned cart recovery system, broadcasting notificaitons etc. and some UI fixes to the client project.
