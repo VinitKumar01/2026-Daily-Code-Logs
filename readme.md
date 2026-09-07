@@ -517,3 +517,5 @@
 05-09-2026 || Shipped some features like abandoned cart recovery system, broadcasting notificaitons etc. and some UI fixes to the client project.
 
 06-09-2026 || Fixed the home page related issues for client project.
+
+07-09-2026 || Fixed the header and profile page UI along with Admin panel improvements for client project.
