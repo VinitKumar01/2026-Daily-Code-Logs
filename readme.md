@@ -523,3 +523,5 @@
 08-09-2026 || Integrated AI in chatbot and panchang for client project.
 
 09-09-2026 || Fixed some bugs related to UI for client project.
+
+10-09-2026 || Fixed some issues related to admin panel and shop page in client project.
