@@ -525,3 +525,5 @@
 09-09-2026 || Fixed some bugs related to UI for client project.
 
 10-09-2026 || Fixed some issues related to admin panel and shop page in client project.
+
+11-09-2026 || Added cash on delivery and solved some more issues in client project.
