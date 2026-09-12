@@ -527,3 +527,5 @@
 10-09-2026 || Fixed some issues related to admin panel and shop page in client project.
 
 11-09-2026 || Added cash on delivery and solved some more issues in client project.
+
+12-09-2026 || Revised golang syntax for future projects.
