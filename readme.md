@@ -529,3 +529,5 @@
 11-09-2026 || Added cash on delivery and solved some more issues in client project.
 
 12-09-2026 || Revised golang syntax for future projects.
+
+13-09-2026 || Learnt about Hyprland Wayland Compositor, UWSM Session Management & Dynamic Hardware Integration for omarchy.
