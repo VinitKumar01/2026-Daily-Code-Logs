@@ -531,3 +531,5 @@
 12-09-2026 || Revised golang syntax for future projects.
 
 13-09-2026 || Learnt about Hyprland Wayland Compositor, UWSM Session Management & Dynamic Hardware Integration for omarchy.
+
+14-09-2026 || Read some blogs related to Go's type declaration.
