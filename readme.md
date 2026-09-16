@@ -535,3 +535,5 @@
 14-09-2026 || Read some blogs related to Go's type declaration.
 
 15-09-2026 || Modified the time frame allocation logic in client project.
+
+16-09-2026 || Learnt about how Snapper Btrfs Snapshot Rollback & Factory Reset Pipeline works in omarchy.
