@@ -539,3 +539,5 @@
 16-09-2026 || Learnt about how Snapper Btrfs Snapshot Rollback & Factory Reset Pipeline works in omarchy.
 
 17-09-2026 || Learnt about omarchy's update pipeline.
+
+18-09-2026 || Did some bug fixes in the client project and learnt about user hooks in omarchy.
