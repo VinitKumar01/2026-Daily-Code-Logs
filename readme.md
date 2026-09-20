@@ -543,3 +543,5 @@
 18-09-2026 || Did some bug fixes in the client project and learnt about user hooks in omarchy.
 
 19-09-2026 || Twilio whatsapp business messaging integration in the client project.
+
+20-09-2026 || Learnt about Package Management Abstraction & Idempotent Helper Layer in omarchy.
