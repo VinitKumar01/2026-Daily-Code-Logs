@@ -545,3 +545,5 @@
 19-09-2026 || Twilio whatsapp business messaging integration in the client project.
 
 20-09-2026 || Learnt about Package Management Abstraction & Idempotent Helper Layer in omarchy.
+
+21-09-2026 || Implemented the feedback system in the client project.
