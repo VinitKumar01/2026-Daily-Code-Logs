@@ -547,3 +547,5 @@
 20-09-2026 || Learnt about Package Management Abstraction & Idempotent Helper Layer in omarchy.
 
 21-09-2026 || Implemented the feedback system in the client project.
+
+22-09-2026 || Learnt about the Desktop Menu System & Dynamic Application Providers in omarchy.
