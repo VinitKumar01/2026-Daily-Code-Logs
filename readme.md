@@ -549,3 +549,5 @@
 21-09-2026 || Implemented the feedback system in the client project.
 
 22-09-2026 || Learnt about the Desktop Menu System & Dynamic Application Providers in omarchy.
+
+23-09-2026 || Built a basic TUI program using bubbletea package in golang.
