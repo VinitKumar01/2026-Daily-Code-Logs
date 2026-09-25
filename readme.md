@@ -553,3 +553,5 @@
 23-09-2026 || Built a basic TUI program using bubbletea package in golang.
 
 24-09-2026 || Learnt about Desktop Notification Architecture & IPC Messaging in omarchy.
+
+25-09-2026 || Practiced bash scripting for omarchy.
