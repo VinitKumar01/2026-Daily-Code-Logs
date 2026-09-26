@@ -555,3 +555,5 @@
 24-09-2026 || Learnt about Desktop Notification Architecture & IPC Messaging in omarchy.
 
 25-09-2026 || Practiced bash scripting for omarchy.
+
+26-09-2026 || Learnt and played with commands in bubbletea.
