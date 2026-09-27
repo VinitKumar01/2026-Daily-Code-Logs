@@ -557,3 +557,5 @@
 25-09-2026 || Practiced bash scripting for omarchy.
 
 26-09-2026 || Learnt and played with commands in bubbletea.
+
+26-09-2026 || Implemented rate limiting and fixed some bugs in client project.
