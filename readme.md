@@ -558,4 +558,6 @@
 
 26-09-2026 || Learnt and played with commands in bubbletea.
 
-26-09-2026 || Implemented rate limiting and fixed some bugs in client project.
+27-09-2026 || Implemented rate limiting and fixed some bugs in client project.
+
+28-09-2026 || Created more twilio whatsapp templates with their code implementation for client project.
