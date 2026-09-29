@@ -561,3 +561,5 @@
 27-09-2026 || Implemented rate limiting and fixed some bugs in client project.
 
 28-09-2026 || Created more twilio whatsapp templates with their code implementation for client project.
+
+29-09-2026 || Learnt about the PipeWire Audio Architecture & Hardware DSP Speaker Tuning in omarchy.
