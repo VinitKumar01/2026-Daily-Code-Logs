@@ -563,3 +563,5 @@
 28-09-2026 || Created more twilio whatsapp templates with their code implementation for client project.
 
 29-09-2026 || Learnt about the PipeWire Audio Architecture & Hardware DSP Speaker Tuning in omarchy.
+
+30-09-2026 || Learnt about about some new technologies in AI like jev and how they work.
