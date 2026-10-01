@@ -565,3 +565,7 @@
 29-09-2026 || Learnt about the PipeWire Audio Architecture & Hardware DSP Speaker Tuning in omarchy.
 
 30-09-2026 || Learnt about about some new technologies in AI like jev and how they work.
+
+## October
+
+01-10-2026 || Made some changes in the client project based on the appointment logic, notifications logic, UI issues etc.
