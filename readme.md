@@ -569,3 +569,5 @@
 ## October
 
 01-10-2026 || Made some changes in the client project based on the appointment logic, notifications logic, UI issues etc.
+
+02-10-2026 || Made the image handling api to have single source of truth and fixed some UI issues in client project.
