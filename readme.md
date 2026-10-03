@@ -571,3 +571,5 @@
 01-10-2026 || Made some changes in the client project based on the appointment logic, notifications logic, UI issues etc.
 
 02-10-2026 || Made the image handling api to have single source of truth and fixed some UI issues in client project.
+
+03-10-2026 || Improved the whatsapp message templates and changed the abandoned cart recovery system time frame for client project.
