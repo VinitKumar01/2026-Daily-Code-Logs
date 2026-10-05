@@ -575,3 +575,5 @@
 03-10-2026 || Improved the whatsapp message templates and changed the abandoned cart recovery system time frame for client project.
 
 04-10-2026 || Practiced bash syntax for omarchy.
+
+05-10-2026 || Create a Initial version of portfolio.
