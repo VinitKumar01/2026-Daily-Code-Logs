@@ -577,3 +577,5 @@
 04-10-2026 || Practiced bash syntax for omarchy.
 
 05-10-2026 || Create a Initial version of portfolio.
+
+06-10-2026 || Created a simple cli based programs in golang for practice.
