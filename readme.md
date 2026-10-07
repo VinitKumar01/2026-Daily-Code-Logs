@@ -579,3 +579,5 @@
 05-10-2026 || Create a Initial version of portfolio.
 
 06-10-2026 || Created a simple cli based programs in golang for practice.
+
+07-10-2026 || Further improved the UI of portfolio.
