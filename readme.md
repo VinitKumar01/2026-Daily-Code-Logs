@@ -581,3 +581,5 @@
 06-10-2026 || Created a simple cli based programs in golang for practice.
 
 07-10-2026 || Further improved the UI of portfolio.
+
+08-10-2026 || Fixed the whatsapp notification integration and integrated shiprocket for shipping for client project.
