@@ -595,3 +595,5 @@
 13-10-2026 || Deployed client project to production.
 
 14-10-2026 || Fixed the production issues for client project like payments webhook, repeated messages, OAuth configuration, adding forgot password feature etc.
+
+15-10-2026 || Fixed the image featching logic and change the Header UI for client project.
