@@ -597,3 +597,5 @@
 14-10-2026 || Fixed the production issues for client project like payments webhook, repeated messages, OAuth configuration, adding forgot password feature etc.
 
 15-10-2026 || Fixed the image featching logic and change the Header UI for client project.
+
+16-10-2026 || Improved the performance, fixed bugs in FShip integration, fixed media apis bugs etc. for client project.
