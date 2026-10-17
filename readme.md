@@ -599,3 +599,5 @@
 15-10-2026 || Fixed the image featching logic and change the Header UI for client project.
 
 16-10-2026 || Improved the performance, fixed bugs in FShip integration, fixed media apis bugs etc. for client project.
+
+17-10-2026 || Fixed the bugs in cleanup logic of images for client project.
