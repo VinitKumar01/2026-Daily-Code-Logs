@@ -603,3 +603,5 @@
 17-10-2026 || Fixed the bugs in cleanup logic of images for client project.
 
 18-10-2026 || Added multiple admins with different permissions, also added Conversions API of meta-pixel for client project.
+
+19-10-2026 || Perfromance audit for client project.
