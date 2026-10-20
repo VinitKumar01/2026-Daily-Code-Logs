@@ -605,3 +605,5 @@
 18-10-2026 || Added multiple admins with different permissions, also added Conversions API of meta-pixel for client project.
 
 19-10-2026 || Perfromance audit for client project.
+
+20-10-2026 || Created the warehouse creating logic in admin panel for client project.
