@@ -607,3 +607,5 @@
 19-10-2026 || Perfromance audit for client project.
 
 20-10-2026 || Created the warehouse creating logic in admin panel for client project.
+
+21-10-2026 || Fixed some UI issues in client project.
