@@ -609,3 +609,5 @@
 20-10-2026 || Created the warehouse creating logic in admin panel for client project.
 
 21-10-2026 || Fixed some UI issues in client project.
+
+22-10-2026 || Learnt about microprocessors.
