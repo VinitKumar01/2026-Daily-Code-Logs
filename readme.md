@@ -611,3 +611,5 @@
 21-10-2026 || Fixed some UI issues in client project.
 
 22-10-2026 || Learnt about microprocessors.
+
+23-10-2026 || Did some security analysis of a public site.
