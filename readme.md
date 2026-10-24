@@ -613,3 +613,5 @@
 22-10-2026 || Learnt about microprocessors.
 
 23-10-2026 || Did some security analysis of a public site.
+
+24-10-2026 || Learnt some concepts of computer networks.
