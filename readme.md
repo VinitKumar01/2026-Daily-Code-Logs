@@ -615,3 +615,5 @@
 23-10-2026 || Did some security analysis of a public site.
 
 24-10-2026 || Learnt some concepts of computer networks.
+
+25-10-2026 || Learnt some theory of computation and design of algorithms concepts.
