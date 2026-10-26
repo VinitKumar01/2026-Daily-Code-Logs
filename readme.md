@@ -617,3 +617,5 @@
 24-10-2026 || Learnt some concepts of computer networks.
 
 25-10-2026 || Learnt some theory of computation and design of algorithms concepts.
+
+26-10-2026 || Revised some java concepts.
