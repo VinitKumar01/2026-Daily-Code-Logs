@@ -619,3 +619,5 @@
 25-10-2026 || Learnt some theory of computation and design of algorithms concepts.
 
 26-10-2026 || Revised some java concepts.
+
+27-10-2026 || Revised some more java concepts like JVM, Memory Model etc. in detail.
