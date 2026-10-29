@@ -623,3 +623,5 @@
 27-10-2026 || Revised some more java concepts like JVM, Memory Model etc. in detail.
 
 28-10-2026 || Re-designed about us page and did some other UI changes in header and other parts for client project.
+
+29-10-2026 || Re-designed the live arti page and changed relations with temple, also did some UI enhancements in multiple sections of the client project.
