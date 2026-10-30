@@ -625,3 +625,5 @@
 28-10-2026 || Re-designed about us page and did some other UI changes in header and other parts for client project.
 
 29-10-2026 || Re-designed the live arti page and changed relations with temple, also did some UI enhancements in multiple sections of the client project.
+
+30-10-2026 || Re-designed the temples page and did many more UI based changes in client project.
