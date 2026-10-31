@@ -627,3 +627,5 @@
 29-10-2026 || Re-designed the live arti page and changed relations with temple, also did some UI enhancements in multiple sections of the client project.
 
 30-10-2026 || Re-designed the temples page and did many more UI based changes in client project.
+
+31-10-2026 || Implemented zoom effect, exclusive offers, upcoming events, and many more things in client project.
