@@ -629,3 +629,7 @@
 30-10-2026 || Re-designed the temples page and did many more UI based changes in client project.
 
 31-10-2026 || Implemented zoom effect, exclusive offers, upcoming events, and many more things in client project.
+
+## November
+
+01-11-2026 || Enhanced fake rating system, added review to bad ratings, wishlist system, left panel for price and filters for shop, copoun apply whooo effect, etc. in client project.
