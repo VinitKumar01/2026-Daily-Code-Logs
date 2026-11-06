@@ -641,3 +641,5 @@
 04-11-2026 || Performance audit for client project.
 
 05-11-2026 || Synced the backend and frontend registration details validations in client project.
+
+06-11-2026 || Solved some domain related issues in client project.
