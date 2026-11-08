@@ -645,3 +645,5 @@
 06-11-2026 || Solved some domain related issues in client project.
 
 07-11-2026 || Implemented ls in golang for practice.
+
+08-11-2026 || Fixed the bade position change from admin panel issue and made sure that palmistry have single source of truth in client project.
