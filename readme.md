@@ -649,3 +649,5 @@
 08-11-2026 || Fixed the bade position change from admin panel issue and made sure that palmistry have single source of truth in client project.
 
 09-11-2026 || Built some scripts for personal use.
+
+10-11-2026 || Fixed the clipping in blogs and page state saving to avoid re-fetching in client project.
