@@ -653,3 +653,5 @@
 10-11-2026 || Fixed the clipping in blogs and page state saving to avoid re-fetching in client project.
 
 11-11-2026 || Fixed the product gallery image upload system for client project.
+
+12-11-2026 || Added multiple product type system and fixed some other UI issue in client project.
