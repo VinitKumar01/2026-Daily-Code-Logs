@@ -657,3 +657,5 @@
 12-11-2026 || Added multiple product type system and fixed some other UI issue in client project.
 
 13-11-2026 || Implemented admin notifications on orders and also did some fixes in client project.
+
+14-11-2026 || Implemented read replicas for postgress using docker.
