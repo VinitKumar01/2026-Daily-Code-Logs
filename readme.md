@@ -661,3 +661,5 @@
 14-11-2026 || Implemented read replicas for postgress using docker.
 
 15-11-2026 || Revisited my golang web-scraper project.
+
+16-11-2026 || Revised some networking basics.
