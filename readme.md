@@ -665,3 +665,5 @@
 16-11-2026 || Revised some networking basics.
 
 17-11-2026 || Revised some database concepts.
+
+18-11-2026 || Revised some dsa concepts.
