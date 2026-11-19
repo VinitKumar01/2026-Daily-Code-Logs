@@ -667,3 +667,5 @@
 17-11-2026 || Revised some database concepts.
 
 18-11-2026 || Revised some dsa concepts.
+
+19-11-2026 || Learnt about database sharding and data partitioning.
