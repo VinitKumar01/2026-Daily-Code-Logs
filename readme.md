@@ -671,3 +671,5 @@
 19-11-2026 || Learnt about database sharding and data partitioning.
 
 20-11-2026 || Implemented sharding and partitioning for postgress and redis in ts.
+
+21-11-2026 || Learnt more about CDNs, cloudflare cdns configurations etc.
