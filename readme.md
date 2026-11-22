@@ -673,3 +673,5 @@
 20-11-2026 || Implemented sharding and partitioning for postgress and redis in ts.
 
 21-11-2026 || Learnt more about CDNs, cloudflare cdns configurations etc.
+
+22-11-2026 || Learnt more about message brokers and queues, also fixed some linux fan control tooling issues.
