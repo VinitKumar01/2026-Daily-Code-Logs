@@ -675,3 +675,5 @@
 21-11-2026 || Learnt more about CDNs, cloudflare cdns configurations etc.
 
 22-11-2026 || Learnt more about message brokers and queues, also fixed some linux fan control tooling issues.
+
+23-11-2026 || Learnt basics of rabbitMQ and implemented a hello world queue in ts.
