@@ -679,3 +679,5 @@
 23-11-2026 || Learnt basics of rabbitMQ and implemented a hello world queue in ts.
 
 24-11-2026 || Implemented task-worker queue system using rabbitMQ.
+
+25-11-2026 || Built a python script based project for personal use.
