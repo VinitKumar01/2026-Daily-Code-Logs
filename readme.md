@@ -681,3 +681,5 @@
 24-11-2026 || Implemented task-worker queue system using rabbitMQ.
 
 25-11-2026 || Built a python script based project for personal use.
+
+26-11-2026 || Worked on some personal tooling.
