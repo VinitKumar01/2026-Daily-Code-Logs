@@ -683,3 +683,5 @@
 25-11-2026 || Built a python script based project for personal use.
 
 26-11-2026 || Worked on some personal tooling.
+
+27-11-2026 || Worked on fixing my developement workflows toolings like debloating them, fixing then according to my usecase etc.
